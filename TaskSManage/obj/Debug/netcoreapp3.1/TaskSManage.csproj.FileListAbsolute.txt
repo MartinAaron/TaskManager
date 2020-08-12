@@ -1,0 +1,13 @@
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\bin\Debug\netcoreapp3.1\TaskSManage.exe
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\bin\Debug\netcoreapp3.1\TaskSManage.deps.json
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\bin\Debug\netcoreapp3.1\TaskSManage.runtimeconfig.json
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\bin\Debug\netcoreapp3.1\TaskSManage.runtimeconfig.dev.json
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\bin\Debug\netcoreapp3.1\TaskSManage.dll
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\bin\Debug\netcoreapp3.1\TaskSManage.pdb
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\obj\Debug\netcoreapp3.1\TaskSManage.csprojAssemblyReference.cache
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\obj\Debug\netcoreapp3.1\TaskSManage.AssemblyInfoInputs.cache
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\obj\Debug\netcoreapp3.1\TaskSManage.AssemblyInfo.cs
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\obj\Debug\netcoreapp3.1\TaskSManage.csproj.CoreCompileInputs.cache
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\obj\Debug\netcoreapp3.1\TaskSManage.dll
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\obj\Debug\netcoreapp3.1\TaskSManage.pdb
+C:\Users\test002\source\repos\TaskSManage\TaskSManage\obj\Debug\netcoreapp3.1\TaskSManage.genruntimeconfig.cache
